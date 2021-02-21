@@ -1,9 +1,9 @@
 @-webkit-keyframes ani {
-    from {border-radius: 0px;}
+    from {border-radius: 10px;}
     to{border-radius: 20px;}
 }
 @keyframes ani {
-    from {border-radius: 0px;}
+    from {border-radius: 10px;}
     to{border-radius: 20px;}
 }
 body{
